@@ -1,2 +1,9 @@
-# Daily-record
-daily record for programming study
+# 📒학습일지
++ 코딩연습, 과목공부, 복습, 웹서버 등 하루하루의 프로그래밍관련 공부내용을 저장해놓는 공간입니다.
+
+<details>
+  <summary>2022.01</summary>   
+  <ul>
+    <li>2022-01-21</li>
+  </ul>
+</details>
