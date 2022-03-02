@@ -4,6 +4,6 @@
 <details>
   <summary>2022.01</summary>   
   <ul>
-    <li>2022-02-14</li>
+    <li><a href="2022-02-14.md">2022-02-14</a></li>
   </ul>
 </details>
