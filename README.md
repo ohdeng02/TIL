@@ -5,6 +5,7 @@
   <summary>2023.06</summary>
   <ul>
     <li><a href="2023-06-05.md">2023-06-05</a></li>
+    <li><a href="2023-06-15.md">2023-06-15</a></li>
   </ul>
 </details>
 
